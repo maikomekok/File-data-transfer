@@ -14,15 +14,6 @@ def open_file():
 
 def convert():
     my_file = open_file() #sheinaxavs gaxsnili failis saxels 
-<<<<<<< HEAD
-    
-=======
-    print(my_file)
->>>>>>> 684250e12796893e5d03c5213eb5f934ae890e6b
-
-    
-    
-    
 
 my_btn = Button(root, text="Convert file", command=convert)
 my_btn.grid(padx=80, pady=25)
