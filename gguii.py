@@ -14,7 +14,7 @@ def open_file():
 
 def convert():
     my_file = open_file() #sheinaxavs gaxsnili failis saxels 
-    print('success')
+    print(my_file)
 
     
     
